@@ -1,0 +1,1 @@
+This JavaScript code processes learner submissions for a given course and assignment group, calculating weighted scores and aggregating results.
